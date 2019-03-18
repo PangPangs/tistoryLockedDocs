@@ -1,6 +1,7 @@
 # tistoryLockedDocs
 
 위 문서는 아래 블로그에서 비공개 처리된 문서들의 비공개 사유를 작성하는 리포지토리입니다.  
+[Ctrl + F]로 비공개 사유를 찾고자하는 링크를 검색하세요.  
 https://pang2h.tistory.com/
 
 ## 참고
