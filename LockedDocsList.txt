@@ -1,10 +1,5 @@
 # [Ctrl + F]를 이용해 사유를 찾을 URL을 검색하세요.
 
-https://pang2h.tistory.com/161
-    홀수 마방진 풀기
-    >> 2019.04. 경에 해제 예정
-    >> 타 학부의 과제로 카피가 있을 수 있다는 의견 수렴
-
 https://pang2h.tistory.com/136
     배열(array)
     >> 내용 추가 필요
