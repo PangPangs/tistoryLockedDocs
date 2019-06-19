@@ -11,3 +11,8 @@ https://pang2h.tistory.com/134
 https://pang2h.tistory.com/133
     클래스(class)
     >> 내용 추가 필요
+
+https://pang2h.tistory.com/216
+    Microsoft : Visual Studio 2017에서 LiveShare 설치
+    >> 작성자 PC에서 VS2017에서 LiveShare 설치 오류가 발생함.
+    >> 확인이 이루어질 때까지 진행을 나갈 수 없음
