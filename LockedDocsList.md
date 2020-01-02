@@ -8,10 +8,6 @@
 배열(array) <br>
 내용 추가 필요
 
-* https://pang2h.tistory.com/134<br>
-구조체(struct)<br>
-내용 추가 필요
-
 * https://pang2h.tistory.com/133 <br>
 클래스(class) <br>
 내용 추가 필요
