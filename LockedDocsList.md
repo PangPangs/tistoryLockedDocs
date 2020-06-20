@@ -16,3 +16,7 @@
 \[REVIEW\] Spoiler : 스파이더맨 파 프롬 홈<br>
 스포일러를 포함한 포스트이기 때문에 Non Spoiler 포스트 아래에 비밀번호를 두고 잠가 놓음.<br>
 Non Spoiler Post : https://pang2h.tistory.com/222
+
+* https://pang2h.tistory.com/318 <br>
+Kotlin: 15 함수형 프로그래밍<br>
+재정리
